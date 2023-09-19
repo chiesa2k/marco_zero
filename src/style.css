@@ -22,9 +22,10 @@ a {
     text-decoration: none;
 }
 
-img {
+.imagens_body {
     border-radius: 10%;
     border: 3px solid #004AAD ;
+    justify-content: center;
 }
 
 header img {
